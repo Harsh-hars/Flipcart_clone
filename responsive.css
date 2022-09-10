@@ -1,0 +1,31 @@
+@media screen and (max-width:1100px){
+    body{
+        background-color:transparent;
+    }
+    nav{
+        flex-direction: column;
+    }
+    header{
+        height: 300px;
+        width: 1300px;
+    }
+    .logo{
+        justify-content: center;
+    }
+    nav ul{
+        justify-content: center;
+    }
+.search{
+        justify-content: center;
+    }
+.search input{
+        margin: 12px 16px;
+    }
+ nav ul {
+        height: 34px;
+    }
+     
+    footer{
+    width: 1300px;
+    }
+}
